@@ -1,0 +1,25 @@
+.btn-menu{
+    position: relative;
+    top: 200px;
+    left: 500px;
+}
+
+.component-card{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 20px; 
+}
+
+.image-hover:hover{
+    position: relative;
+    left: 50%;
+    transform: scale(2);
+    z-index: 10;
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }

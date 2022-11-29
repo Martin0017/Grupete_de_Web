@@ -1,0 +1,9 @@
+body{
+    background-image: url(http://www.fondos10.net/wp-content/uploads/images/fondos10.net-3d-832.jpg) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+  }
